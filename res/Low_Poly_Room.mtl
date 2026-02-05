@@ -1,0 +1,36 @@
+# MTL file - created by a modified js OBJExporter
+
+newmtl UberTexture
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.9577051401138306
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd UberTexture.png
+
+newmtl PC_Glass
+Tr 0.8336509168148041
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.9577051401138306
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0.800000011920929 0.800000011920929 0.800000011920929
+Ke 0 0 0
+
+newmtl Floor
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.800495445728302
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd Floor.png
