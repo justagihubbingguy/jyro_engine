@@ -23,8 +23,9 @@ A hobby **2D and 3D game & simulation engine** built in **Java** using **LWJGL**
 ---
 
 ## Examples
-
-<pre>java package net.jyro.windows.testing;
+    
+```java 
+package net.jyro.windows.testing;
 
 import net.jyro.windows.world.ModelLoader;
 import net.jyro.windows.world.SpatialRenderer;
@@ -157,4 +158,4 @@ public class MainViewer {
         GLFW.glfwTerminate();
     }
 }
-    </pre>
+```
